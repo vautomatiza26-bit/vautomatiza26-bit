@@ -41,4 +41,4 @@ antes de darla por buena. En mis proyectos documento también los errores que en
 
 AI automation engineer in training, based in Spain and looking for remote work. I build real automation systems with n8n, Supabase/PostgreSQL, Python and LLM APIs.
 My main project is a time-tracking and work-report system in production for a construction company (~100 workers, two companies), with offline clock-in, AI-read paper reports
-with human review, and automated alerts and backups. Case study in English: [`control-jornada-obras`](https://github.com/vautomatiza26-bit/control-jornada-obras/blob/main/README.en.md).
+with human review, and automated alerts and backups. Case study in English: [`control-jornada-obras`](https://github.com/vautomatiza26-bit/control-jornada-obras/blob/master/README.en.md).
